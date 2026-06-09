@@ -7,7 +7,7 @@ A curated portfolio of **production-oriented machine learning systems** demonstr
 - fairness & explainability  
 - reproducible ML engineering  
 
-Each project reflects strong engineering ownership with modular design, real-world ML practices, and clear evaluation discipline..
+Each project reflects strong engineering ownership with modular design, real-world ML practices, and clear evaluation discipline
 
 ---
 
