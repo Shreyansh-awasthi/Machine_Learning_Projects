@@ -1,6 +1,7 @@
 # User Engagement Prediction
 
 Production-style machine learning system that predicts user engagement probability from historical interaction data, designed as a reusable signal for ranking, personalization, and decision systems.
+In simple word , it is an end-to-end machine learning pipeline designed to predict, analyze, and catalog user interaction levels. This system processes high-volume behavioral telemetry to forecast active session durations, retention risks, and overall feature adoption rates.
 
 ---
 
@@ -125,6 +126,7 @@ User-Engagement-Prediction/
 ├── .gitignore              # ignore rules
 └── README.md               # documentation
 ```
+
 
 This project demonstrates a production-aligned approach to user engagement modeling, emphasizing reproducibility, leakage-safe evaluation, calibrated predictions, and explainability which are core requirements for real-world machine learning systems.
 
